@@ -1,0 +1,31 @@
+div#profile-content {
+  text-align: center;
+}
+
+div#profile-wrapper {
+  text-align: center;
+  width: 200px;
+  display: inline-block;
+  margin: 20pt;
+
+}
+
+img#profile-picture {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  border: solid #ffa500;
+}
+
+p#name-card {
+  font-family: Dekko;
+  font-size: 20pt;
+  color: #ff7f50;
+}
+
+p#programming-language, p#about-text {
+  font-family: Dekko;
+  text-align: center;
+  font-size: 15pt;
+  color: #ff7f50;
+}

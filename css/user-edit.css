@@ -1,0 +1,25 @@
+div#user-edit-page {
+  text-align: center;
+}
+
+div#user-edit-wrapper {
+  padding: 0 auto;
+  display: inline-block;
+}
+
+h2#user-edit-h2 {
+  font-size: 30pt;
+  color: #ff7f50;
+}
+
+
+content#single-user-edit {
+  font-family: Dekko;
+  text-align: left;
+  font-size: 20pt;
+  color: #ff7f50;
+}
+
+button#save-btn {
+  font-size: 10pt;
+}

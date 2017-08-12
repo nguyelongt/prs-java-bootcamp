@@ -1,0 +1,27 @@
+div#users-list-page {
+  text-align: center;
+}
+
+div#users-list-wrapper {
+  padding: 0 auto;
+  display: inline-block;
+}
+
+h2#users-detail-h2 {
+  width: 70%;
+  height: 70%;
+  margin: 30pt;
+  color: #ff7f50;
+}
+
+
+content#users-content {
+  font-family: Dekko;
+  text-align: left;
+  font-size: 15pt;
+  color: #ff7f50;
+}
+
+button#sean-detail-btn {
+  font-size: 10pt;
+}
